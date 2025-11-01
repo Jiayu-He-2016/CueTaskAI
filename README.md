@@ -1,7 +1,7 @@
 # Jiayu's Independent Research Project: AI Modeling of Visual Working Memory
 
 ## Overview of this project
-This project simulates a visual working memory experiment (Heuer & Schubö, 2016) to test how an AI model (OpenAI’s GPT model) performs on tasks that involve spatial attention, feature-based cues, and visual working memory.
+This project was inspired by the visual working memory experiment (Heuer & Schubö, 2016), while to test how an AI model (OpenAI’s GPT model) performs on tasks that involve spatial attention, feature-based cues, and visual working memory.
 
 The experiment presents the AI with a 2×2 grid of 4 colored shapes (stimuli), followed by a retrocue (a cue that directs attention to one of the previously shown stimuli).
 The AI must then decide whether the retrocue refers to an object that was located in a specific grid position (“yes” or “no”).

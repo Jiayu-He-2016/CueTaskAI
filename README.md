@@ -3,7 +3,7 @@
 ## Overview of this project
 This project was inspired by the visual working memory experiment (Heuer & Schubö, 2016), while to test how an AI model (OpenAI’s GPT model) performs on tasks that involve spatial attention, feature-based cues, and visual working memory.
 
-The experiment presents the AI with a 2×2 grid of 4 colored shapes (stimuli), followed by a retrocue (a cue that directs attention to one of the previously shown stimuli).
+The experiment presents the AI with a grid of 2, 4, or 6 colored shapes (stimuli), followed by a retrocue (a cue that directs attention to one of the previously shown stimuli).
 The AI must then decide whether the retrocue refers to an object that was located in a specific grid position (“yes” or “no”).
 
 This project aims to investigate how AI systems process and reason about visual-spatial information, and how such modeling could inform the design of AI-driven interfaces that align better with human attention and memory patterns.
